@@ -1,8 +1,11 @@
 # BÀI TẬP MÔN HỌC: XÂY DỰNG ỨNG DỤNG TƯƠNG TÁC VỚI CAMERA SỬ DỤNG MEDIAPIPE
 
 **Tên đề tài:** Air Drawing & AR Face Filter (Ứng Dụng Vẽ Tương Tác Không Chạm và Bộ Lọc Thực Tế Ảo Trên Mặt Tự Động Định Vị)
+
 **Sinh viên thực hiện:** Phan Thanh Bình
+
 **Mã số sinh viên:** 26520184
+
 **Lớp:** ATTN2026
 
 ---
@@ -12,12 +15,15 @@
 *Dưới đây là 3 hình ảnh thực nghiệm minh họa cho ứng dụng:*
 
 ![Ảnh 1: Chế độ vẽ tự do trên màn hình](image1.png)
+
 *(Chú thích: Vẽ trên không bằng ngón tay trỏ với thanh công cụ đổi màu)*
 
 ![Ảnh 2: Chế độ AR Filter vẽ lên mặt](image2.png)
+
 *(Chú thích: Nét vẽ dính lên khuôn mặt và di chuyển theo đầu)*
 
 ![Ảnh 3: Chế độ vẽ bằng chuột kết hợp AR](image3.png)
+
 *(Chú thích: Sử dụng chuột để vẽ, trang điểm lên mặt)*
 
 ---
