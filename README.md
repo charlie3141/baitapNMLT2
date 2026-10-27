@@ -56,4 +56,4 @@ Tải 2 file sau từ Google MediaPipe và để cùng thư mục với file cod
 **3. Chạy chương trình:**
 ```bash
 python main.py
-```"# baitapNMLT2" 
+```
